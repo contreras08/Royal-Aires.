@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\Proyecto aires 3\Proyecto aires 3\obj\Debug\Proyecto aires 3.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Proyecto aires 3\Proyecto aires 3\obj\Debug\Proyecto_aires_3.Form1.resources
+C:\Users\Usuario\source\repos\Proyecto aires 3\Proyecto aires 3\obj\Debug\Proyecto_aires_3.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Proyecto aires 3\Proyecto aires 3\obj\Debug\Proyecto aires 3.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Proyecto aires 3\Proyecto aires 3\obj\Debug\Proyecto aires 3.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Proyecto aires 3\Proyecto aires 3\bin\Debug\Proyecto aires 3.exe.config
+C:\Users\Usuario\source\repos\Proyecto aires 3\Proyecto aires 3\bin\Debug\Proyecto aires 3.exe
+C:\Users\Usuario\source\repos\Proyecto aires 3\Proyecto aires 3\bin\Debug\Proyecto aires 3.pdb
+C:\Users\Usuario\source\repos\Proyecto aires 3\Proyecto aires 3\obj\Debug\Proyecto aires 3.exe
+C:\Users\Usuario\source\repos\Proyecto aires 3\Proyecto aires 3\obj\Debug\Proyecto aires 3.pdb
+C:\Users\Usuario\source\repos\Proyecto aires 3\Proyecto aires 3\obj\Debug\Proyecto_aires_3.Form2.resources
+C:\Users\Usuario\source\repos\Proyecto aires 3\Proyecto aires 3\obj\Debug\Proyecto aires 3.csproj.SuggestedBindingRedirects.cache
